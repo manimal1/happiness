@@ -1,0 +1,5 @@
+{
+  "cdn" : "//localhost:3001",
+  "scripts" : "main.js",
+  "styles" : "main.css"
+}

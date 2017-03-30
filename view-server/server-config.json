@@ -1,0 +1,12 @@
+{
+  "server":
+  {
+    "port": "3000",
+    "host": "localhost"
+  },
+  "paths":
+  {
+   "controllers":  "./server/controllers",
+   "routes":  "./server/routes"
+  }
+}

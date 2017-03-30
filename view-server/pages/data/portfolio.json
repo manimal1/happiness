@@ -1,0 +1,13 @@
+{
+  "title": "PortFolio Page",
+  "username" : "Lennart Kroneman",
+  "occupation": "developer",
+  "script" : "portfolio.js",
+  "contact" : {
+    "address" : {
+      "street" : "Meidoornplein 4",
+      "city" : "Diemen",
+      "phone" : "0610411633"
+    }
+  }
+}
